@@ -31,9 +31,6 @@
 - `worldcup_chat_streamlit.py`: كود الواجهة التفاعلية
 - `worldcup_chat_data_full.json`: قاعدة بيانات الأسئلة والإجابات المخصصة
 
-## مثال حي:
-
-(أضف رابط إذا رفعته على streamlit cloud)
 
 ---
 
